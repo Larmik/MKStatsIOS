@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "mk_stats_logo_picture.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"

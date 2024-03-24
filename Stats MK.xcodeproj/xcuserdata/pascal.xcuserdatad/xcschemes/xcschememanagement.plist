@@ -7,7 +7,25 @@
 		<key>Stats MK.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>7</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>50FEB8AC2B5AD7C3002474B4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>50FEB8BE2B5AD7C4002474B4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>50FEB8C82B5AD7C4002474B4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
