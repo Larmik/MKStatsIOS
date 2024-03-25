@@ -89,8 +89,8 @@ fastlane/test_output
 
 # Firebase
 
-Firebase/GoogleServiceInfo-debug.plist
-Firebase/GoogleServiceInfo-release.plist
+Firebase/GoogleService-Info-debug.plist
+Firebase/GoogleService-Info-release.plist
 
 
 iOSInjectionProject/
